@@ -1,0 +1,26 @@
+{
+  "name": "node-vue",
+  "version": "1.0.0",
+  "description": "node测试项目",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gracer-lyl/node-vue.git"
+  },
+  "keywords": [
+    "node",
+    "vue"
+  ],
+  "author": "kissy小鬼",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gracer-lyl/node-vue/issues"
+  },
+  "homepage": "https://github.com/gracer-lyl/node-vue#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
